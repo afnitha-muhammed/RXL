@@ -1,0 +1,367 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/essential-oil-peppermint-bottle-with-fresh-green-peppermint_1150-38027.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 446px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 241px auto 60px 0;
+}
+
+.u-section-1 .u-line-1 {
+  left: 0;
+  top: 387px;
+  transform-origin: center bottom 0px;
+  position: absolute;
+  transform: rotate(1deg);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 368px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 282px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 212px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 334px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 266px;
+    margin-bottom: 35px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1082px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 1.25rem;
+  margin: 56px 162px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0);
+  margin: 12px 413px 0 1px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1rem;
+  margin: 17px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 570px;
+  height: 318px;
+  margin: 12px auto 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 1rem;
+  margin: -318px 37px 0 596px;
+}
+
+.u-section-2 .u-text-5 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0);
+  margin: 49px 414px 0 0;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 1rem;
+  margin: 17px 0 0;
+}
+
+.u-section-2 .u-list-1 {
+  width: 1018px;
+  margin: 30px auto 35px;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-gap: 51px 51px;
+  grid-template-columns: calc(33.3333% - 34px) calc(33.3333% - 34px) calc(33.3333% - 34px);
+  min-height: 210px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-2 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  background-image: none;
+  margin: 35px auto 0;
+  padding: 4px;
+}
+
+.u-section-2 .u-text-7 {
+  font-weight: 700;
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-2 .u-icon-2 {
+  width: 64px;
+  background-image: none;
+  height: 64px;
+  margin: 35px auto 0;
+  padding: 4px;
+}
+
+.u-section-2 .u-text-8 {
+  font-weight: 700;
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-2 .u-icon-3 {
+  width: 64px;
+  background-image: none;
+  height: 64px;
+  margin: 35px auto 0;
+  padding: 4px;
+}
+
+.u-section-2 .u-text-9 {
+  font-weight: 700;
+  margin: 16px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1331px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 214px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+    margin-top: 16px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: 53px;
+    margin-right: 214px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 940px;
+    margin-bottom: 60px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 192px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: -318px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 511px;
+    grid-template-columns: calc(50% - 25.5px) calc(50% - 25.5px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1065px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 301px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: -301px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2210px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 30px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.5rem;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 190px;
+    margin-top: 23px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: 32px;
+  }
+
+  .u-section-2 .u-text-5 {
+    font-size: 1.5rem;
+    margin-top: 55px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 340px;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/WhatsAppImage2023-04-05at2.39.25PM3.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 284px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0);
+  margin: 55px 20px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  background-image: none;
+  border-style: solid;
+  font-weight: 700;
+  margin: 30px 20px 40px 0;
+  padding: 8px 27px 8px 26px;
+}
+
+.u-section-3 .u-icon-1 {
+  font-size: 1.1429em;
+  vertical-align: 0px;
+  margin-right: 6px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 234px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 179px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 134px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 84px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+  }
+}
